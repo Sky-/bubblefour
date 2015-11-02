@@ -1,0 +1,9 @@
+Menü:
+
+2 Buttons
+1. Start
+2. Beenden
+
+Spiel:
+
+Level 1 - Auf einem 4 mal 4 großen Feld werden Bälle angezeigt die durch klicken
