@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SCHULUNG</Machine>
+    <WindowsUser>Schulung1</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>84f36aa1-b325-41d3-bba8-3546efa58b5b</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Schulung1\documents\visual studio 2013\Projects\Bubblefour 0.1b\Bubblefour 0.1b\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Schulung1\documents\visual studio 2013\Projects\Bubblefour 0.1b\Bubblefour 0.1b\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Schulung1\documents\visual studio 2013\Projects\Bubblefour 0.1b\Bubblefour 0.1b\bin\Debug\Bubblefour 0.1b.exe">
+      <PackagePath>Bubblefour 0.1b.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Schulung1\documents\visual studio 2013\Projects\Bubblefour 0.1b\packages\DrawerLayout.1.0.4\lib\DrawerLayout.dll">
+      <PackagePath>DrawerLayout.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Schulung1\documents\visual studio 2013\Projects\Bubblefour 0.1b\Bubblefour 0.1b\Assets\ball_blue.png">
+      <PackagePath>Assets\ball_blue.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Schulung1\documents\visual studio 2013\Projects\Bubblefour 0.1b\Bubblefour 0.1b\Assets\ball_green.png">
+      <PackagePath>Assets\ball_green.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Schulung1\documents\visual studio 2013\Projects\Bubblefour 0.1b\Bubblefour 0.1b\Assets\ball_red.png">
+      <PackagePath>Assets\ball_red.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Schulung1\documents\visual studio 2013\Projects\Bubblefour 0.1b\Bubblefour 0.1b\Assets\ball_yellow.png">
+      <PackagePath>Assets\ball_yellow.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Schulung1\documents\visual studio 2013\Projects\Bubblefour 0.1b\Bubblefour 0.1b\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Schulung1\documents\visual studio 2013\Projects\Bubblefour 0.1b\Bubblefour 0.1b\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Schulung1\documents\visual studio 2013\Projects\Bubblefour 0.1b\Bubblefour 0.1b\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Schulung1\documents\visual studio 2013\Projects\Bubblefour 0.1b\Bubblefour 0.1b\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Schulung1\documents\visual studio 2013\Projects\Bubblefour 0.1b\Bubblefour 0.1b\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Schulung1\documents\visual studio 2013\Projects\Bubblefour 0.1b\Bubblefour 0.1b\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Schulung1\documents\visual studio 2013\Projects\Bubblefour 0.1b\Bubblefour 0.1b\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Schulung1\documents\visual studio 2013\Projects\Bubblefour 0.1b\Bubblefour 0.1b\bin\Debug\Mainframe.xbf">
+      <PackagePath>Mainframe.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Schulung1\documents\visual studio 2013\Projects\Bubblefour 0.1b\Bubblefour 0.1b\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Schulung1\documents\visual studio 2013\Projects\Bubblefour 0.1b\Bubblefour 0.1b\bin\Debug\Bubblefour 0.1b.xr.xml">
+      <PackagePath>Bubblefour 0.1b.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Schulung1\documents\visual studio 2013\Projects\Bubblefour 0.1b\Bubblefour 0.1b\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

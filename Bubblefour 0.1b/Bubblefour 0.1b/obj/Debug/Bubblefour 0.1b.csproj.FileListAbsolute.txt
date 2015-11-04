@@ -1,0 +1,40 @@
+C:\Users\Schulung1\documents\visual studio 2013\Projects\Bubblefour 0.1b\Bubblefour 0.1b\bin\Debug\App.xbf
+C:\Users\Schulung1\documents\visual studio 2013\Projects\Bubblefour 0.1b\Bubblefour 0.1b\bin\Debug\MainPage.xbf
+C:\Users\Schulung1\documents\visual studio 2013\Projects\Bubblefour 0.1b\Bubblefour 0.1b\bin\Debug\Bubblefour 0.1b.xr.xml
+C:\Users\Schulung1\documents\visual studio 2013\Projects\Bubblefour 0.1b\Bubblefour 0.1b\bin\Debug\Bubblefour 0.1b.exe
+C:\Users\Schulung1\documents\visual studio 2013\Projects\Bubblefour 0.1b\Bubblefour 0.1b\bin\Debug\Bubblefour 0.1b.pdb
+C:\Users\Schulung1\documents\visual studio 2013\Projects\Bubblefour 0.1b\Bubblefour 0.1b\bin\Debug\resources.pri
+C:\Users\Schulung1\documents\visual studio 2013\Projects\Bubblefour 0.1b\Bubblefour 0.1b\bin\Debug\AppxManifest.xml
+C:\Users\Schulung1\documents\visual studio 2013\Projects\Bubblefour 0.1b\Bubblefour 0.1b\bin\Debug\Bubblefour 0.1b.build.appxrecipe
+C:\Users\Schulung1\documents\visual studio 2013\Projects\Bubblefour 0.1b\Bubblefour 0.1b\bin\Debug\DrawerLayout.dll
+C:\Users\Schulung1\documents\visual studio 2013\Projects\Bubblefour 0.1b\Bubblefour 0.1b\obj\Debug\Bubblefour 0.1b.csprojResolveAssemblyReference.cache
+C:\Users\Schulung1\documents\visual studio 2013\Projects\Bubblefour 0.1b\Bubblefour 0.1b\obj\Debug\App.g.i.cs
+C:\Users\Schulung1\documents\visual studio 2013\Projects\Bubblefour 0.1b\Bubblefour 0.1b\obj\Debug\App.g.cs
+C:\Users\Schulung1\documents\visual studio 2013\Projects\Bubblefour 0.1b\Bubblefour 0.1b\obj\Debug\MainPage.g.i.cs
+C:\Users\Schulung1\documents\visual studio 2013\Projects\Bubblefour 0.1b\Bubblefour 0.1b\obj\Debug\MainPage.g.cs
+C:\Users\Schulung1\documents\visual studio 2013\Projects\Bubblefour 0.1b\Bubblefour 0.1b\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Schulung1\documents\visual studio 2013\Projects\Bubblefour 0.1b\Bubblefour 0.1b\obj\Debug\App.xaml
+C:\Users\Schulung1\documents\visual studio 2013\Projects\Bubblefour 0.1b\Bubblefour 0.1b\obj\Debug\App.xbf
+C:\Users\Schulung1\documents\visual studio 2013\Projects\Bubblefour 0.1b\Bubblefour 0.1b\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Schulung1\documents\visual studio 2013\Projects\Bubblefour 0.1b\Bubblefour 0.1b\obj\Debug\MainPage.xaml
+C:\Users\Schulung1\documents\visual studio 2013\Projects\Bubblefour 0.1b\Bubblefour 0.1b\obj\Debug\MainPage.xbf
+C:\Users\Schulung1\documents\visual studio 2013\Projects\Bubblefour 0.1b\Bubblefour 0.1b\obj\Debug\Bubblefour 0.1b.exe
+C:\Users\Schulung1\documents\visual studio 2013\Projects\Bubblefour 0.1b\Bubblefour 0.1b\obj\Debug\Bubblefour 0.1b.pdb
+C:\Users\Schulung1\documents\visual studio 2013\Projects\Bubblefour 0.1b\Bubblefour 0.1b\obj\Debug\Bubblefour 0.1b.csproj.GenerateResource.Cache
+C:\Users\Schulung1\documents\visual studio 2013\Projects\Bubblefour 0.1b\Bubblefour 0.1b\obj\Debug\priconfig.xml
+C:\Users\Schulung1\documents\visual studio 2013\Projects\Bubblefour 0.1b\Bubblefour 0.1b\obj\Debug\priconfig.xml.intermediate
+C:\Users\Schulung1\documents\visual studio 2013\Projects\Bubblefour 0.1b\Bubblefour 0.1b\obj\Debug\layout.resfiles
+C:\Users\Schulung1\documents\visual studio 2013\Projects\Bubblefour 0.1b\Bubblefour 0.1b\obj\Debug\layout.resfiles.intermediate
+C:\Users\Schulung1\documents\visual studio 2013\Projects\Bubblefour 0.1b\Bubblefour 0.1b\obj\Debug\resources.resfiles
+C:\Users\Schulung1\documents\visual studio 2013\Projects\Bubblefour 0.1b\Bubblefour 0.1b\obj\Debug\resources.resfiles.intermediate
+C:\Users\Schulung1\documents\visual studio 2013\Projects\Bubblefour 0.1b\Bubblefour 0.1b\obj\Debug\pri.resfiles
+C:\Users\Schulung1\documents\visual studio 2013\Projects\Bubblefour 0.1b\Bubblefour 0.1b\obj\Debug\pri.resfiles.intermediate
+C:\Users\Schulung1\documents\visual studio 2013\Projects\Bubblefour 0.1b\Bubblefour 0.1b\obj\Debug\qualifiers.txt
+C:\Users\Schulung1\documents\visual studio 2013\Projects\Bubblefour 0.1b\Bubblefour 0.1b\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Schulung1\documents\visual studio 2013\Projects\Bubblefour 0.1b\Bubblefour 0.1b\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Schulung1\documents\visual studio 2013\Projects\Bubblefour 0.1b\Bubblefour 0.1b\obj\Debug\ProjectArchitectures.txt
+C:\Users\Schulung1\documents\visual studio 2013\Projects\Bubblefour 0.1b\Bubblefour 0.1b\bin\Debug\Mainframe.xbf
+C:\Users\Schulung1\documents\visual studio 2013\Projects\Bubblefour 0.1b\Bubblefour 0.1b\obj\Debug\Mainframe.g.i.cs
+C:\Users\Schulung1\documents\visual studio 2013\Projects\Bubblefour 0.1b\Bubblefour 0.1b\obj\Debug\Mainframe.g.cs
+C:\Users\Schulung1\documents\visual studio 2013\Projects\Bubblefour 0.1b\Bubblefour 0.1b\obj\Debug\Mainframe.xaml
+C:\Users\Schulung1\documents\visual studio 2013\Projects\Bubblefour 0.1b\Bubblefour 0.1b\obj\Debug\Mainframe.xbf
